@@ -1,0 +1,31 @@
+2025-06-23 19:16:01.007 +05:00 [INF] Application is starting up...
+2025-06-23 19:16:01.055 +05:00 [INF] Environment: Development
+2025-06-23 19:16:01.060 +05:00 [WRN] This is a test warning log from startup.
+2025-06-23 19:16:01.063 +05:00 [ERR] This is a test error log from startup.
+2025-06-23 19:16:01.814 +05:00 [INF] Now listening on: https://localhost:7021
+2025-06-23 19:16:01.819 +05:00 [INF] Now listening on: http://localhost:5080
+2025-06-23 19:16:01.822 +05:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-06-23 19:16:01.823 +05:00 [INF] Hosting environment: Development
+2025-06-23 19:16:01.826 +05:00 [INF] Content root path: C:\Users\zeeshanilyas\source\repos\SeriLogX\SeriLogX
+2025-06-23 19:16:05.674 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger - null null
+2025-06-23 19:16:05.866 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger - 301 0 null 203.8602ms
+2025-06-23 19:16:05.871 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/index.html - null null
+2025-06-23 19:16:06.064 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/index.html - 200 null text/html;charset=utf-8 192.3356ms
+2025-06-23 19:16:06.223 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/swagger-ui.css - null null
+2025-06-23 19:16:06.256 +05:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-06-23 19:16:06.263 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/swagger-ui.css - 200 152034 text/css 40.7833ms
+2025-06-23 19:16:06.373 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/swagger-ui-standalone-preset.js - null null
+2025-06-23 19:16:06.373 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/swagger-ui-bundle.js - null null
+2025-06-23 19:16:06.396 +05:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-06-23 19:16:06.403 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 29.6879ms
+2025-06-23 19:16:06.425 +05:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-06-23 19:16:06.430 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 57.2147ms
+2025-06-23 19:16:06.485 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/_framework/aspnetcore-browser-refresh.js - null null
+2025-06-23 19:16:06.498 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/_framework/aspnetcore-browser-refresh.js - 200 13752 application/javascript; charset=utf-8 12.5449ms
+2025-06-23 19:16:06.695 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/_vs/browserLink - null null
+2025-06-23 19:16:06.777 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/_vs/browserLink - 200 null text/javascript; charset=UTF-8 81.8109ms
+2025-06-23 19:16:07.083 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/v1/swagger.json - null null
+2025-06-23 19:16:07.127 +05:00 [INF] Request starting HTTP/2 GET https://localhost:7021/swagger/favicon-32x32.png - null null
+2025-06-23 19:16:07.134 +05:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-06-23 19:16:07.138 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/favicon-32x32.png - 200 628 image/png 10.8856ms
+2025-06-23 19:16:07.217 +05:00 [INF] Request finished HTTP/2 GET https://localhost:7021/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 136.9281ms
